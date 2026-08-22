@@ -59,7 +59,7 @@ ISP2_ADDRESS
 
 can be used where revealing the actual infrastructure is unnecessary.
 
-Configuration Areas to Preserve
+Configuration Areas to Preserve.
 
 The sanitized export should eventually demonstrate the parts of the project related to:
 
